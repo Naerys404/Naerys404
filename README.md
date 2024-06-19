@@ -1,5 +1,4 @@
-
-<h1 align="center">Salut👋 , moi c'est Laura ! </h1>
+![Cover](https://github.com/Naerys404/Naerys404/blob/main/img/banner.png)
 <h3 align="center">👩🏻‍💻 Une développeuse Web et Web Mobile passionnée qui aime apprendre et donner vie à ses idées 💡</h3> <br>
 
 
