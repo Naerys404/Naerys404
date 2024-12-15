@@ -4,7 +4,7 @@
 
 - 📜 J'ai obtenu le Titre Professionnel RNCP de niveau 5 via une formation sans mentorat avec Formation31 <br>
 - 🌱 J'apprends ***TypeScript*** et ***Python***
-- 🔭 En ce moment, je travaille sur un addon pour ***World of Warcraft*** en ***Lua*** et ***XML***
+- 🔭 En ce moment, je travaille sur un projet personnel 🎁 en ***Python*** 
 
 
 ## 🌐 Socials:
