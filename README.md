@@ -3,8 +3,8 @@
 
 
 - 📜 J'ai obtenu le Titre Professionnel RNCP de niveau 5 via une formation sans mentorat avec Formation31 <br>
-- 🌱 J'apprends ***TypeScript*** et ***Python***
-- 🔭 En ce moment, je travaille sur un projet personnel 🎁 en ***Python*** 
+- 🌱 J'apprends ***TypeScript*** et je me familiarise avec ***Python***
+- 🔭 En ce moment, je fais une refonte de MealPlanner avec ***Angular 19*** et une API ***Symfony***.
 
 
 ## 🌐 Socials:
