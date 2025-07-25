@@ -4,7 +4,7 @@
 
 - 📜 J'ai obtenu le Titre Professionnel RNCP de niveau 5 via une formation sans mentorat avec Formation31 <br>
 - 🌱 J'apprends ***TypeScript*** et je me familiarise avec ***Python***
-- 🔭 En ce moment, je suis en formation pour le TP RNCP de niveau 6 Concepteur Développeur d'Application option DEVOPS avec Adrar.
+- 🔭 En ce moment, je suis en formation pour le TP RNCP de niveau 6 Concepteur Développeur d'Application option ***DEVOPS*** avec Adrar.
 
 
 ## 🌐 Socials:
